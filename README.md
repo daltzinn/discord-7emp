@@ -3,6 +3,6 @@ Simple discord bot to enable temporary messages in a server chat.
 
 Usage:
 
-<start_clear 
+<start_clear\n
 <stop_clear
 
